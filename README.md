@@ -29,7 +29,6 @@ A simple web-based application that accepts a student's name and marks in three 
 
 The input page allows students to enter their name and marks for three subjects.
 
-![Student Marks Input Form](screenshots/student-marks-form.png)
 
 ### 2. Student Result Page
 
@@ -42,7 +41,6 @@ The result page displays the student's name, total marks, average marks, and fin
 - **Average Marks:** 80.00
 - **Final Grade:** B
 
-![Student Result Page](screenshots/student-marks-result.png)
 
 ## Grade Criteria
 
